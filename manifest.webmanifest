@@ -1,0 +1,10 @@
+{
+  "name": "Fawry Daily Report",
+  "short_name": "Fawry Report",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f28c00",
+  "lang": "ar",
+  "dir": "rtl"
+}
